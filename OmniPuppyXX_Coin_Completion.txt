@@ -1,0 +1,125 @@
+﻿Basis and Merkle composite completion
+
+Working with any Base cryptography wheel -which using OmniXX Key miner- maintains Threaded interior encryption, combined with interior sign locks when paired with a signing byte code encryption. With the current trend of the CryptoCoin, the Merkle tree has become a favorites basis of integrity continuity which when utilized connected to outside self signing procedures such as the standard of the HMAC3-SHA512 builds directly into more integral encryption. Following is the build Rulesets and visual Form listing for the initial bind and runtime build for a 3-Separation Coiner composition.
+
+The build is placed in such a measure as a C# 4.6. Encryption wheel and divisional Merkle and coining, an Android NDK formset and applet APK, a MODx Server for HTTP direct access and the usage of api.domain.com as the api Proxy base.
+
+While API washing in itself prevents loss of cryptography moderately, using a xPlatform accessor, a c# written and compiled interior encryption wheel, and API specific internal webapplication runtime signing between verified user APK applet and api.domain hosted applet for self Signing, Merkle build, token verification, and provision of string artifacts and TCP/IP or UDP concat data transport between 2-Part verifiers, especially with log-authentication for the APK from OAuth2 proxies, guarantees the absolute greatest level internally washed variables and exquisitely hard to hack components.
+
+
+The Rulesets are law
+
+OmniPuppyXX Coin Details
+Omnipuppy International Sole
+http://omnipuppy.com/
+
+OmniPuppyXX Coin Regulations and Specifics for Blockchain Functions,
+Timing, Work Efficiency Heuristics, Token Granting, Encryption Protocol,
+Data Transfer Information, Decryption Signal Details, Final Coining Point,
+URL Link for Coin Data Transmission, and Weighting regard.
+
+How Analytics Shift Is Measured:
+
+252i Heuristics Four Category Weight Divide is Verified
+All Components Are Verified
+All Success Strings Verified
+All Verified String Indexes are Sectored
+Failed 252i Attempts Verified
+
+For 24 Hours if ((((1x(252i)Success)x(1(252i)Shift)) / 3 ) x 4 ) >= 12 :: (100-((((1x(252i)Success)x(1(252i)Shift)) / 3 ) x 4 ) / 100)
+For 24 Hours if ((((1x(252i)Success)x(1(252i)Shift)) / 3 ) x 4 ) <= 12 :: (100((((1x(252i)Success)x(1(252i)Shift)) / 3 ) x 4 ))
+
+Work Verification Payout
+
+(100-((((1x(252i)Success)x(1(252i)Shift)) / 3 ) x 4 ) / 100) x (OmniPuppyXX Coin CTE @ CDT(Work Verification))/103680
+(100-(((((1x(252i)Success)x(1(252i)Shift)) / 3 ) x 4 ) x 10)) x (OmniPuppyXX Coin CTE @ CDT(Work Verification))/103680
+
+Coin Mapping
+
+xx0.000000000000.000000000
+
+Decryption Cap
+
+xx9(10e1036) Max Limitation for Runtime Encryption
+
+Last Coin ~ 1.151xx or xx1151.111,111,111,111.111,111,111
+
+Omn0,000,000,000,000
+
+1.151xx Signal Initiates Coin Transaction Decryption Process For Recoining And Epoch Verification
+
+Data Transmission
+
+CSV data to SHA-512 resulting to SHA512 strings are provided by api.omnipuppy.com
+userhost hashes coin, returns Success SHA512 string to api.omnipuppy.com
+Analytics Shift, User Work, and Work Weight are Calculated
+Coin is Verified and Coined for Block Cycles Completed by User.
+
+Encryption Basis
+
+OmniXX Key Algorith Miner Uses
+
+RIPEMD160
+HMACSHA3-512
+SHA1
+SHA256
+SHA384
+and
+SHA512
+
+as main base encryptions internally,
+
+Mining work Provides Merkle Tree of
+OmniXX Key Miner return string and its last HMACSHA3-512, as well as its last RIPEMD160
+to All others by Connecting One HMAC from Line to Two Others, and One RIPEMD to to Others.
+
+Timing Regulations
+
+3150 Merkle Triangulations Successful in 1050 Associated Key Pairs (B64:HM3,RI1) in 105000ms
+175 Tokens from Merkle Triangulations in 175000ms
+(84 Minutes of MerkleSuccess Key Data AS 6,250 Strings) in 525000ms
+252 Key-Hour-Attempt Hashes Paired in 6048000ms (Efficiency Data Used for Analytics Shift)
+54 252i Heuristics Cells into Blocks of 243 in 103680000ms
+Full Coin Token Verification in 10399000ms
+
+_Data Transmission And Response of Coin Share
+
+Merkle Tree
+
+08/04/2019GMT-8(12:34:27)——->———————->——— –
+HMACSHA3-512 ——>- – | |
+RIPEMD160 – – | | | |
+| | | | | |
+| | | | | |
+| | | | 08/04/2019GMT-8(12:34:27) ——<—-| ||–|—>
+| | | |_ HMACSHA3-512 –> Output to Next————|—>
+| ||______RIPEMD160 –> Output to Next ————–|—>
+| | |
+| | |
+| | 08/04/2019GMT-8(12:34:27) ————-<——||—>
+| | HMACSHA3-512 –> Output to Next ——————->
+|_____________RIPEMD160 –> Output to Next ———————->
+
+252i Data Heuristics Sectoring Details
+as Mentioned in “54 252i Heuristics Cells into Blocks of 243 in 103680000ms”
+
+Possible Merkle Trinity Success == 1
+Possible Merkle Trinity Cell Failure Non-Local == 1.667
+Possible Merkle Trinity Cell Failure Local == 1.334
+Possible Merkle Trinity Cell Direct Failure == 1.033
+
+1 == 1 ,
+1.033 == .033 ,
+1.334 == .334 ,
+1.667 == .667
+
+Copyright Pending 2019 Omnipuppy International Sole, Portland, Oregon, United States of America, 97217, Omnipuppy International
+
+
+And the glorrrrrryyyyy!!!!!!!!!
+
+Utilized and produced in appropriate choreography the manifestation of the Rulesets above and a visual form basis of the actual APK provides ample ground for APK specific Heuristics and Data processing through TCP/IP or UDP encoded packets transfered through encoding separations and then divided into the capable Volume capacitors transported through and relocalized into temporary JSON veriables accessed, and filled for live usage able to be, and required to be, closed and Data disposed at the end of live functions prior to Completion closure. Which due to the implemented dual sign seal second by second by second provides the APK it’s third party security by verifiable Data locale usage receiving washed and isolated security in its own process and moment by moment difference from internal usage, encryption usage, API usage and app only String, numeral, and image basis having discarded non-functional Data sets prior to JSON local storage.
+
+The ticking tablesets and Visual Form RunDown
+
+Specifically designated in a visual form Base while all of the C# encryption is built direct in an Asynchronous and Interim heavy build basis for Access to synchronization separate code for UI built in xPlatform MODx connection hosting and xPlatform only APK pairing and isolated UI controllers, ALL elements remain secure.
