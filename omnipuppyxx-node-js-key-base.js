@@ -4,13 +4,13 @@ console.log("Welcome to The OmniXX Key Miner" + ":——-::——–:" + datetim
 
     console.log("Please Wait While We Retrieve the Key To Encrypt" + ":——-::——–:" + datetime + "");
 
- function intervalFunc() { console.log("initializing..."); } setInterval(intervalFunc, 1000);
+ 
 
-var x=1; while (x!=0){
-	 x++;
+
 	 
     function intervalFunc() { console.log('');
-       
+      var x=1; while (x!=0){
+	 
     var sourceFile = "319572770adf3b1ea3a801732fe90f17e346c6565b2426c2bdf398d9842bb26f266cd5df2515c3c43c10f19570c0cf216213d0109452e7677c610a368c8cdb9e:3aO:3512:335253122353132313321BASE23522135311523133235BASE353253153323532313325BASE135323531321531523531BASE323153512352531353215BASE532313525355332333235BASE";
   var logo =   
 sourceFile;
@@ -714,10 +714,17 @@ console.log("hash: " + logo101 + "");
      
 var crypto = require('crypto');
 var hash = crypto.createHash('ripemd160');
+data = hash.update(logo101, 'utf-8');
+gen_hash= data.digest('hex');
+var logo102 = gen_hash + "" + datetime + "" + "335253122353132313321BASE23522135311523133235BASE353253153323532313325BASE135323531321531523531BASE323153512352531353215BASE532313525355332333235BASE"  ;
+console.log("hash: " + logo102 + "");
+var crypto = require('crypto');
+var hash = crypto.createHash('sha512');
 data = hash.update(logo102, 'utf-8');
 gen_hash= data.digest('hex');
 var logo103 = gen_hash + "" + datetime + "" + "335253122353132313321BASE23522135311523133235BASE353253153323532313325BASE135323531321531523531BASE323153512352531353215BASE532313525355332333235BASE"  ;
-console.log("hash: " + logo103 + ""); 
+console.log("hash: " + logo103 + "");
+
     
 var crypto = require('crypto');
 var hash = crypto.createHash('sha512');
@@ -993,16 +1000,16 @@ console.log("hash: " + logo142 + "");
     
  var crypto = require('crypto');
 var hash = crypto.createHash('sha384');
-data = hash.update(logo143, 'utf-8');
+data = hash.update(logo142, 'utf-8');
 gen_hash= data.digest('hex');
-var logo144 = gen_hash + "" + datetime + "" + "335253122353132313321BASE23522135311523133235BASE353253153323532313325BASE135323531321531523531BASE323153512352531353215BASE532313525355332333235BASE"  ;
-console.log("hash: " + logo144 + ""); 
+var logo143 = gen_hash + "" + datetime + "" + "335253122353132313321BASE23522135311523133235BASE353253153323532313325BASE135323531321531523531BASE323153512352531353215BASE532313525355332333235BASE"  ;
+console.log("hash: " + logo143 + ""); 
  
  
     
 var crypto = require('crypto');
 var hash = crypto.createHash('ripemd160');
-data = hash.update(logo144, 'utf-8');
+data = hash.update(logo143, 'utf-8');
 gen_hash= data.digest('hex');
 var logoRipe = gen_hash + "" + datetime + "" + "335253122353132313321BASE23522135311523133235BASE353253153323532313325BASE135323531321531523531BASE323153512352531353215BASE532313525355332333235BASE"  ;
 console.log("hash: " + logoRipe + ""); 
@@ -1025,5 +1032,7 @@ console.log("hash: " + logoRecache + "");
       }  
     
  // console.log(callStr.toString());
+
+  x++;
   
   }setInterval(intervalFunc, 1000); 
